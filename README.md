@@ -1,3 +1,3 @@
 #Blog pessoal com React Router.
 
-Projeto em desenvolvimento.
+projeto desenvolvido apenas com o intuito de entender o funcionamento do react-router.
